@@ -46,8 +46,8 @@
 	<link href='http://fonts.googleapis.com/css?family=Roboto:400,300,100,500' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
 
-	<!-- <link rel="stylesheet" type="text/css" href="css/jquery.mobile-1.4.5.min.css" />
-	<script src="js/jquery-2.1.1.js" type="text/javascript"></script> -->
+	<!-- <link rel="stylesheet" type="text/css" href="css/jquery.mobile-1.4.5.min.css" /> -->
+	<script src="js/jquery-2.1.1.js" type="text/javascript"></script>
 	<script src="js/jquery.mobile-1.4.5.min.js" type="text/javascript"></script>
 
 	<!-- Animate.css -->
