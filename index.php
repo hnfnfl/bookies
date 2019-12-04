@@ -216,6 +216,8 @@
 
   <!-- jQuery -->
   <script src="js/jquery.min.js"></script>
+  <script src="js/jquery.mobile-1.4.5.min.js" type="text/javascript"></script>
+  <link rel="stylesheet" type="text/css" href="css/jquery.mobile-1.4.5.min.css" />
   <!-- jQuery Easing -->
   <script src="js/jquery.easing.1.3.js"></script>
   <!-- Bootstrap -->
